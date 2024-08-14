@@ -7,13 +7,11 @@ contributing significant insights into brain tumor classification.
 # Usage
 After filtering and preprocessing data, we recommend to use GPU with Methylation Classifier.
 
-Download two fine-tuned models for making Embedding vectors.
+Download models for methylation classifier
 ```python
-https://huggingface.co/jaeminjj/EpicPred/tree/main
+https://huggingface.co/jaeminjj/SH-MC/tree/main
 ```
-Please put two models in model folder
-
-EpicPred environment requirements
+SH_MC environment requirements
 ```python
 torch==2.3.1
 transformers==4.42.3
