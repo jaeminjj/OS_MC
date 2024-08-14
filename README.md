@@ -11,6 +11,8 @@ Download models for methylation classifier
 ```python
 https://huggingface.co/jaeminjj/SH-MC/tree/main
 ```
+download model.pt and model.pickle 
+
 SH_MC environment requirements
 ```python
 torch==2.3.1
