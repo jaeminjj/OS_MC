@@ -21,3 +21,6 @@ sklearn==1.5.0
 pandas==1.4.4
 numpy==1.26.4
 tensorflow==2.16.2
+scipy==1.14.0
+pickle==4.0
+datatable==1.1.0
